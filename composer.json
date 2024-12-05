@@ -20,6 +20,8 @@
         "drupal/coffee": "^2.0",
         "drupal/core-composer-scaffold": "^11.0",
         "drupal/core-recommended": "^11.0",
+        "drupal/ds": "^3.24",
+        "drupal/focal_point": "^2.1",
         "drupal/gin": "^3.0@RC",
         "drupal/module_filter": "^5.0",
         "drupal/pathauto": "^1.13",
