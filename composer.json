@@ -23,6 +23,7 @@
         "drupal/ds": "^3.24",
         "drupal/focal_point": "^2.1",
         "drupal/gin": "^3.0@RC",
+        "drupal/image_link_formatter": "^2.2",
         "drupal/module_filter": "^5.0",
         "drupal/pathauto": "^1.13",
         "drush/drush": "^13.3"
