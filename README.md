@@ -1,3 +1,8 @@
+Höfundur verkefnis:
+Hallgrímur Jónas Jensson
+hallgrimur23@ru.is
+
+
 Notendur:
 
 admin:
